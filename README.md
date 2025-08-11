@@ -1,56 +1,50 @@
 # 👋 Hi, I'm Hernán Agudelo
 
 **Backend & Systems Engineer** with 16+ years of experience in backend software development, industrial automation, and systems integration.  
-Proven ability to deliver reliable, scalable solutions by bridging the gap between hardware and software.
+Passionate about building reliable, scalable systems that bridge the gap between hardware and software.
 
-📍 Open to Relocate – San Diego, CA | C2 English  
+📍 Open to Relocate – San Diego, CA | **C2 English**  
 📧 **hernanagudelodev@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/hernan-agudelo) | [Public CV](link-al-cv)  
-
----
-
-## 🛠 Tech Stack
-- **Languages:** Python, SQL, C (basic), C++ (learning)
-- **Frameworks & Tools:** Django, REST APIs, PostgreSQL, MySQL, Docker, Git
-- **Domains:** Backend Development, System Design, Industrial Automation, Systems Integration
-- **Other:** SCADA, PLC Programming, Instrumentation
+🔗 [LinkedIn](https://www.linkedin.com/in/hernan-agudelo) | [Portfolio GitHub](https://github.com/hernanagudelodev)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. [appInventarios](https://github.com/hernanagudelodev/AppInventarios)
-Web application for property inventory management.  
-- Built with **Python/Django** and **PostgreSQL**.  
-- Features: property data entry, printable reports, digital signature.  
-- Designed for real estate agencies to digitize and centralize inventory control.
+- **[SaaS Inmobiliario](https://github.com/hernanagudelodev/SaaSInmobiliario)**  
+  Multi-tenant property management SaaS (in development) with inventory, contracts, and payment reconciliation.
+
+- **[AppInventarios](https://github.com/hernanagudelodev/appInventarios)**  
+  Dynamic property inventory system with configurable forms, e-signatures, and PDF generation.
+
+- **[Budget App](https://github.com/hernanagudelodev/budget-app-backend)**  
+  FastAPI backend for budget management with AI-assisted forecasting and natural language transaction input (planned).
 
 ---
 
-### 2. [SaaSInmobiliario](https://github.com/hernanagudelodev/saas-inmobiliario)
-Version 2 of *appInventarios*, currently under development.  
-- Added features: digital signatures, role-based authentication, analytics dashboards.  
-- **Tech:** Django, REST APIs, PostgreSQL, Docker, CI/CD.  
-- Goal: full SaaS platform for property management with multi-tenant architecture.
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
 
 ---
 
-### 3. [App de Presupuesto](https://github.com/hernanagudelodev/proyecto_presupuesto)
-Budget management application (backend in progress).  
-- API REST backend with **FastAPI** and **PostgreSQL**.  
-- Features (in progress): transaction management, categories, account balances.  
-- Focus on multi-user support and secure authentication.
+## 📈 Currently Working On
+
+- Expanding **SaaS Inmobiliario** with rental management, payment reconciliation, and accounting integration.
+- Adding **AI-powered cash flow forecasting** to **Budget App**.
+- Continuous practice on **algorithms, data structures, and system design** for technical interviews.
 
 ---
 
-## 📈 Current Focus
-- Enhancing SaaSInmobiliario with production-ready features.
-- Completing REST API for the budget app.
-- Continuous practice on algorithms, data structures, and system design for technical interviews.
+## 📬 Contact
 
----
-
-## 📬 Let's Connect
-- **LinkedIn:** [linkedin.com/in/hernan-agudelo](https://www.linkedin.com/in/hernan-agudelo)  
-- **Email:** hernanagudelodev@gmail.com  
-- **Portfolio:** [GitHub Projects](https://github.com/hernanagudelodev)
+**Hernán Agudelo López**  
+📧 **hernanagudelodev@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/hernan-agudelo) | [GitHub](https://github.com/hernanagudelodev)
