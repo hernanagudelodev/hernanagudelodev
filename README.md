@@ -11,7 +11,7 @@ Passionate about building reliable, scalable systems that bridge the gap between
 
 ## 🚀 Featured Projects
 
-- **[SaaS Inmobiliario](https://github.com/hernanagudelodev/SaaSInmobiliario)**  
+- **[SaaS Inmobiliario](https://github.com/hernanagudelodev/saas-inmobiliario)**  
   Multi-tenant property management SaaS (in development) with inventory, contracts, and payment reconciliation.
 
 - **[AppInventarios](https://github.com/hernanagudelodev/appInventarios)**  
