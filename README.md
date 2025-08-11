@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Hernán Agudelo
 
-<!--
-**hernanagudelodev/hernanagudelodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & Systems Engineer** with 16+ years of experience in backend software development, industrial automation, and systems integration.  
+Proven ability to deliver reliable, scalable solutions by bridging the gap between hardware and software.
 
-Here are some ideas to get you started:
+📍 Open to relocate – San Diego, CA | C2 English  
+📧 hernanagudelodev@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/hernan-agudelo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:** Python, Django, PostgreSQL, REST APIs, Docker, Git  
+**Domains:** Backend Development, System Design, Industrial Automation, Systems Integration  
+
+## 🚀 Featured Projects
+- **Real Estate SaaS Platform** – Property management SaaS with authentication, digital signatures, and analytics dashboards. [Repo →]((https://github.com/hernanagudelodev/AppInventarios))
+- **[Otro proyecto que quieras destacar]** – breve descripción.
