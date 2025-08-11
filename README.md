@@ -17,7 +17,7 @@ Passionate about building reliable, scalable systems that bridge the gap between
 - **[AppInventarios](https://github.com/hernanagudelodev/appInventarios)**  
   Dynamic property inventory system with configurable forms, e-signatures, and PDF generation.
 
-- **[Budget App](https://github.com/hernanagudelodev/budget-app-backend)**  
+- **[Budget App](https://github.com/hernanagudelodev/proyecto_presupuesto)**  
   FastAPI backend for budget management with AI-assisted forecasting and natural language transaction input (planned).
 
 ---
